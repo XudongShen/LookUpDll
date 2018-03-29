@@ -1,4 +1,4 @@
-lookupexeDll
+LookUpDll
 ========
 
 该程序用于查看Windows下的exe程序调用的dll以及API名字
